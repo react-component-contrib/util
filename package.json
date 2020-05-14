@@ -1,6 +1,6 @@
 {
   "name": "@react-component-contrib/util",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "This react components utils",
   "main": "./lib/index.js",
   "module": "./lib/index.js",
@@ -18,5 +18,9 @@
     "typescript": "^3.8.3",
     "webpack": "^4.42.1",
     "webpack-cli": "^3.3.11"
+  },
+  "dependencies": {
+    "@types/classnames": "^2.2.10",
+    "classnames": "^2.2.6"
   }
 }

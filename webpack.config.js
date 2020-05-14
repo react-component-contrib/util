@@ -29,6 +29,9 @@ module.exports = {
       },
     ],
   },
+  externals: {
+    'classnames': 'classnames',
+  },
   resolve: {
     extensions: ['.tsx', '.ts', '.js'],
     alias: {
