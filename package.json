@@ -1,6 +1,6 @@
 {
-  "name": "@rc/util",
-  "version": "0.0.1",
+  "name": "@react-component-contrib/util",
+  "version": "0.0.2",
   "description": "This react components utils",
   "main": "./lib/index.js",
   "module": "./lib/index.js",
