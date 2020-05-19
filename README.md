@@ -1,3 +1,3 @@
-# @rc/util
+# @react-component-contrib/util
 
 Writing

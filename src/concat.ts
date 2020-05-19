@@ -5,7 +5,7 @@ interface ConcatOptions {
   separator?: string;
 }
 
-export function concat(...args: string[]): string;
+export function concat(...args: Array<string | undefined>): string;
 export function concat(options: ConcatOptions, ...args: string[]): string;
 export function concat(...args: any[]): string {
   const defaultOptions = {
